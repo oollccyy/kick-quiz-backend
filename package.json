@@ -1,0 +1,15 @@
+{
+  "name": "kick-quiz-backend",
+  "version": "2.0.0",
+  "description": "Kick Quiz Arena - Official Webhook Bridge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
